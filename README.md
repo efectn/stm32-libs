@@ -3,6 +3,7 @@
 Some STM32 libraries for HAL.
 
 - [BMP180](bmp180/README.md)
+- [DHT22](dht22/README.md)
 
 ## How to Add a Library
 
